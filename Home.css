@@ -1,0 +1,58 @@
+#head{
+    
+    background-color: #ff6f69;
+}
+
+h1{
+    color: darkgoldenrod;
+    font-size: 40px;
+}
+h3{
+    
+    color: darkred;
+}
+.header{
+    
+    height: 400px;
+    background-color: red;
+}
+
+.welcome {
+    padding-top: 50px;
+}
+
+body{
+    
+    
+    height: 100%; 
+    background-image: url(bg4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body{
+    text-align: center;
+    height: 1000px;
+    
+}
+
+p{
+    font-size: 20px;
+    font-weight: 100px;
+    color:darkred;
+    
+    
+}
+a.button {
+    border: none;
+    background-color: #ef5156;
+    color: #fff2f2; 
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
